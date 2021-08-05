@@ -1,0 +1,42 @@
+.links{
+     padding-left: 5px;
+     padding-right: 5px;
+    color: black;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+    float: left;
+}
+.linksl{
+         padding-left: 5px;
+     padding-right: 5px;
+    color: black;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    text-decoration: underline;
+    background-color: dodgerblue;
+}
+.linksl:hover{
+    text-decoration: underline;
+    background-color: dodgerblue;
+}
+body{
+    background-color: #f3b313;
+}
+#hdpara{
+    font-family: cursive;
+    text-align: center;
+}
+#welcome{
+    margin-left: 20px;
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+marquee{
+    font-size: 18px;
+}
